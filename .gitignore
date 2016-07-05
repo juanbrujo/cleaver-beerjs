@@ -1,3 +1,6 @@
+# ignore any .html file
+*.html
+
 # Logs
 logs
 *.log
