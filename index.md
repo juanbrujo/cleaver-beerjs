@@ -50,4 +50,6 @@ function particle() {
 
 ### Use
 
-Just check the [Cleaver Quick Start](https://github.com/jdan/cleaver). It's so easy!
+- Just check the [Cleaver Quick Start](https://github.com/jdan/cleaver). It's so easy!
+
+- [Cleaver - BeerJS Theme](https://github.com/juanbrujo/cleaver-beerjs/).
