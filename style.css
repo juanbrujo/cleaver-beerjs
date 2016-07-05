@@ -191,7 +191,7 @@ h3 {
   font-weight: 700;
 }
 h1 {
-  font-size: 300%;
+  font-size: 200%;
   text-align: center;
   line-height: 1.2;
 }
@@ -217,7 +217,7 @@ ul {
 blockquote {
   padding-left: 20px;
   margin-left: 0;
-  background: #efefef;
+  background: #fff;
   border-left: 5px solid #272822;
   border-radius: 0 3px 3px 0;
 }
