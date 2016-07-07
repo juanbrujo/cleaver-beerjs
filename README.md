@@ -14,8 +14,8 @@
 title: BeerJS Theme
 author:
   name: Jorge Epuñan H.
-  twitter: csslab
-  url: http://www.csslab.cl
+  twitter: beerjssantiago
+  url: http://www.beerjs.cl
 output: index.html
 theme: juanbrujo/cleaver-beerjs
 ```
