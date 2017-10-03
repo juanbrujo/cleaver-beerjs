@@ -1,12 +1,12 @@
 # Cleaver - BeerJS Theme
 
-> Official theme for BeerJS Santiago meetups using Cleaver Slideshow
+*Official theme for BeerJS Santiago meetups using Cleaver Slideshow*
 
 ![Cleaver - BeerJS Theme](https://dl.dropboxusercontent.com/u/3522/cleaver-beerjs.gif)
 
 ### Use
 
-- Check the [Cleaver Quick Start](https://github.com/jdan/cleaver) to understand and understand Cleaver.
+- Check the [Cleaver Quick Start](https://github.com/jdan/cleaver) to understand and use Cleaver.
 
 - Add it as a *theme* in your `.md` files calling directly this repository:
 
@@ -19,3 +19,5 @@ author:
 output: index.html
 theme: juanbrujo/cleaver-beerjs
 ```
+
+- Write your _markdown_ file and build the .html file using Cleaver CLI!
