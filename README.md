@@ -2,7 +2,7 @@
 
 *Official theme for BeerJS Santiago meetups using Cleaver Slideshow*
 
-![Cleaver - BeerJS Theme](https://dl.dropboxusercontent.com/u/3522/cleaver-beerjs.gif)
+![Cleaver - BeerJS Theme](https://i.imgur.com/ElknrDg.gif)
 
 ### Use
 
