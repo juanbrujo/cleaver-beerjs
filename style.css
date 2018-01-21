@@ -124,6 +124,28 @@ img.badge {
   color: #f1f1f1;
 }
 
+.author-slide:after {
+  content: '';
+  position: absolute;
+  top: 90px;
+  left: 50%;
+  margin-left: -90px;
+  width: 180px;
+  height: 180px;
+  background-image: url('img/me.jpg');
+  background-repeat: no-repeat;
+  background-position: 50% 20%;
+  background-size: 180px;
+  border-radius: 50%;
+}
+
+.author-slide .slide-content {
+  position: absolute;
+  top: 260px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 .controls {
   position: absolute;
   bottom: 10px;
